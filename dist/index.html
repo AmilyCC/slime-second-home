@@ -8,15 +8,26 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header><h1>史萊姆好玩遊戲區 <span>- 史萊姆的第二個家</span></h1></header>
+<svg class="svg-definitions" aria-hidden="true"><symbol id="slime" viewBox="0 0 32 28"><path fill="#102955" d="M14 1h4v4h3v3h4v4h3v4h2v9h-3v2H5v-2H2v-9h2v-4h3V8h4V5h3z"/><path fill="#419aef" d="M14 6h4v3h4v4h4v4h2v7h-4v1H8v-1H4v-7h2v-4h4V9h4z"/><path fill="#70d6fc" d="M14 9h4v3h3v3H10v3H7v-3h3v-3h4z"/><path fill="#c1f6ff" d="M12 13h4v3h-4z"/><path fill="#fff" d="M9 18h4v5H9zm10 0h4v5h-4z"/><path fill="#15264a" d="M11 19h2v3h-2zm8 0h2v3h-2z"/><path fill="#fb8897" d="M14 22h4v2h-4z"/></symbol></svg>
+<div class="site">
+<header class="banner">
+<svg class="slime slime-left" viewBox="0 0 32 28" aria-hidden="true"><use href="#slime"/></svg>
+<div class="site-name"><h1>史萊姆<span>好玩遊戲區</span></h1><p>史萊姆的第二個家</p></div>
+<svg class="slime slime-right" viewBox="0 0 32 28" aria-hidden="true"><use href="#slime"/></svg>
+<div class="grass" aria-hidden="true"></div>
+</header>
 <main>
+<div class="game-banners" id="banners" aria-label="遊戲連結"></div>
+<div class="game-list">
 <table>
-<colgroup><col class="subject"><col><col class="provider"></colgroup>
-<thead><tr><th scope="col">主題</th><th scope="col">內容簡介</th><th scope="col">推薦者／讚數</th></tr></thead>
+<colgroup><col class="subject"><col><col class="likes-column"></colgroup>
+<thead><tr><th scope="col">遊戲名稱</th><th scope="col">內容簡介</th><th scope="col">讚數</th></tr></thead>
 <tbody id="games"><tr><td colspan="3">載入中…</td></tr></tbody>
 </table>
+</div>
 </main>
 <footer><a href="https://www.threads.com/@_1naiad7.___/post/DeuNI37kzlH" target="_blank" rel="noopener noreferrer">來源貼文</a><span>2026/10/22 讚數（本次可讀留言）</span></footer>
+</div>
 <script src="app.js" defer></script>
 </body>
 </html>
