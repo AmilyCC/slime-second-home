@@ -21,7 +21,7 @@
   },
   {
     "id": "rhythm-race",
-    "name": "HYPERDRIVE RHYTHM RACE",
+    "name": "超速節奏賽車",
     "original": "HYPERDRIVE RHYTHM RACE",
     "category": "音樂節奏",
     "likes": 357,
@@ -31,7 +31,7 @@
   },
   {
     "id": "horse",
-    "name": "おうまパカパカ",
+    "name": "小馬踏踏走",
     "original": "おうまパカパカ / Clip-Clop Horse",
     "category": "動作冒險",
     "likes": 292,
@@ -41,7 +41,7 @@
   },
   {
     "id": "hamburg",
-    "name": "ハンバーグ作り",
+    "name": "製作漢堡排",
     "original": "ハンバーグ作り",
     "category": "料理模擬",
     "likes": 260,
@@ -51,7 +51,7 @@
   },
   {
     "id": "takoyaki",
-    "name": "たこ焼き作り",
+    "name": "製作章魚燒",
     "original": "たこ焼き作り",
     "category": "料理模擬",
     "likes": 160,
@@ -61,7 +61,7 @@
   },
   {
     "id": "crepe",
-    "name": "クレープ作り",
+    "name": "製作可麗餅",
     "original": "クレープ作り",
     "category": "料理模擬",
     "likes": 90,
@@ -121,7 +121,7 @@
   },
   {
     "id": "cake",
-    "name": "なかよしケーキシミュレーター",
+    "name": "好朋友蛋糕模擬器",
     "original": "なかよしケーキシミュレーター",
     "category": "料理模擬",
     "likes": 68,
@@ -131,7 +131,7 @@
   },
   {
     "id": "legend-cave",
-    "name": "Legend Cave",
+    "name": "傳說洞窟",
     "original": "Legend Cave｜2002 經典洞窟動作 RPG 網頁重製版",
     "category": "動作冒險",
     "likes": 68,
@@ -141,7 +141,7 @@
   },
   {
     "id": "softserve",
-    "name": "ソフトクリームシミュレーター",
+    "name": "霜淇淋模擬器",
     "original": "ソフトクリームシミュレーター",
     "category": "料理模擬",
     "likes": 64,
@@ -151,7 +151,7 @@
   },
   {
     "id": "umpire",
-    "name": "UUUMPIRE",
+    "name": "棒球主審模擬器",
     "original": "UUUMPIRE",
     "category": "運動挑戰",
     "likes": 57,
@@ -181,7 +181,7 @@
   },
   {
     "id": "taiwan-guessr",
-    "name": "台灣 Guessr",
+    "name": "台灣猜猜樂",
     "original": "台灣 Guessr｜每日猜謎小遊戲",
     "category": "益智解謎",
     "likes": 35,
