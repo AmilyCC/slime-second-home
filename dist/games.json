@@ -1,0 +1,202 @@
+[
+  {
+    "id": "chihuahua",
+    "name": "吉娃娃模擬器",
+    "original": "吉娃娃模擬器",
+    "category": "動作冒險",
+    "likes": 1090,
+    "url": "https://chihuahua-sim.pages.dev/",
+    "source": "https://www.threads.com/@_1naiad7.___/post/DeuNPSUE_WC",
+    "description": "操作吉娃娃對路人吠叫、翻垃圾桶，避開攻擊。"
+  },
+  {
+    "id": "night-market",
+    "name": "臺灣夜市遊樂園",
+    "original": "臺灣夜市遊樂園",
+    "category": "休閒小品",
+    "likes": 918,
+    "url": "https://yes.taiwanrpg.com/",
+    "source": "https://www.threads.com/@_1naiad7.___/post/DeuNNc6E50-",
+    "description": "夜市遊戲合輯，包含撈金魚、套圈圈等。"
+  },
+  {
+    "id": "rhythm-race",
+    "name": "HYPERDRIVE RHYTHM RACE",
+    "original": "HYPERDRIVE RHYTHM RACE",
+    "category": "音樂節奏",
+    "likes": 357,
+    "url": "https://rhythmrace.plave.world/",
+    "source": "https://www.threads.com/@lulume1121/post/DewCe4UFF73",
+    "description": "配合 MV 與音樂遊玩；按下 MV 播放開始遊戲。"
+  },
+  {
+    "id": "horse",
+    "name": "おうまパカパカ",
+    "original": "おうまパカパカ / Clip-Clop Horse",
+    "category": "動作冒險",
+    "likes": 292,
+    "url": "https://tsuyatt.com/games/clip-clop/",
+    "source": "https://www.threads.com/@_1naiad7.___/post/DeuON5QE09R",
+    "description": "用四個按鈕控制馬的四隻腳，走到 50 公尺外的終點。"
+  },
+  {
+    "id": "hamburg",
+    "name": "ハンバーグ作り",
+    "original": "ハンバーグ作り",
+    "category": "料理模擬",
+    "likes": 260,
+    "url": "https://piko2game.com/hamburg/",
+    "source": "https://www.threads.com/@_1naiad7.___/post/DeuN4Jyk5jc",
+    "description": "切洋蔥、混合材料、揉捏成形，再煎熟漢堡排。"
+  },
+  {
+    "id": "takoyaki",
+    "name": "たこ焼き作り",
+    "original": "たこ焼き作り",
+    "category": "料理模擬",
+    "likes": 160,
+    "url": "https://piko2game.com/takoyaki/",
+    "source": "https://www.threads.com/@_1naiad7.___/post/DeuOAA7k1IG",
+    "description": "倒入麵糊、加入章魚，翻面製作章魚燒。"
+  },
+  {
+    "id": "crepe",
+    "name": "クレープ作り",
+    "original": "クレープ作り",
+    "category": "料理模擬",
+    "likes": 90,
+    "url": "https://piko2game.com/crepe/",
+    "source": "https://www.threads.com/@_1naiad7.___/post/DeuOCB0kwvW",
+    "description": "倒入麵糊，傾斜平底鍋攤平，再翻面煎熟。"
+  },
+  {
+    "id": "restaurant",
+    "name": "我的餐廳",
+    "original": "我的餐廳｜香港餐廳經營模擬（公開測試）",
+    "category": "經營養成",
+    "likes": 86,
+    "url": "https://myrestaurant-gamma.vercel.app/",
+    "source": "https://www.threads.com/@xiao_lin127/post/DevFw0rjz-d",
+    "description": "香港餐廳經營模擬遊戲。"
+  },
+  {
+    "id": "pumpkin",
+    "name": "逃出南瓜屋",
+    "original": "萬聖節限定－逃出南瓜屋",
+    "category": "益智解謎",
+    "likes": 77,
+    "url": "https://www.neurtale.com/thread/179",
+    "source": "https://www.threads.com/@little.trial.corner/post/DevLOICk1wE",
+    "description": "萬聖節主題的文字密室解謎。"
+  },
+  {
+    "id": "christmas",
+    "name": "聖誕秘密任務",
+    "original": "聖誕節限定－聖誕秘密任務",
+    "category": "益智解謎",
+    "likes": 77,
+    "url": "https://www.neurtale.com/thread/208",
+    "source": "https://www.threads.com/@little.trial.corner/post/DevLOICk1wE",
+    "description": "聖誕節主題的文字解謎。"
+  },
+  {
+    "id": "easter",
+    "name": "逃出復活島",
+    "original": "復活節限定－逃出復活島",
+    "category": "益智解謎",
+    "likes": 77,
+    "url": "https://www.neurtale.com/thread/363",
+    "source": "https://www.threads.com/@little.trial.corner/post/DevLOICk1wE",
+    "description": "復活節主題的文字密室解謎。"
+  },
+  {
+    "id": "diary",
+    "name": "夏日秘密日記",
+    "original": "夏日秘密日記",
+    "category": "益智解謎",
+    "likes": 77,
+    "url": "https://www.neurtale.com/thread/579",
+    "source": "https://www.threads.com/@little.trial.corner/post/DevLOICk1wE",
+    "description": "日記主題的文字解謎。"
+  },
+  {
+    "id": "cake",
+    "name": "なかよしケーキシミュレーター",
+    "original": "なかよしケーキシミュレーター",
+    "category": "料理模擬",
+    "likes": 68,
+    "url": "https://nakayoshicake.kosukuma.com/",
+    "source": "https://www.threads.com/@_1naiad7.___/post/DevMbW0ky9j",
+    "description": "裝飾蛋糕，再將蛋糕分切。"
+  },
+  {
+    "id": "legend-cave",
+    "name": "Legend Cave",
+    "original": "Legend Cave｜2002 經典洞窟動作 RPG 網頁重製版",
+    "category": "動作冒險",
+    "likes": 68,
+    "url": "https://15cm.tw/LC/",
+    "source": "https://www.threads.com/@15cm.tw/post/DeunrY5k3h4",
+    "description": "2002 年洞窟動作 RPG 的網頁重製版。"
+  },
+  {
+    "id": "softserve",
+    "name": "ソフトクリームシミュレーター",
+    "original": "ソフトクリームシミュレーター",
+    "category": "料理模擬",
+    "likes": 64,
+    "url": "https://softserve.nog.cc/",
+    "source": "https://www.threads.com/@kami.soku0228/post/DevWp3Lk2X3",
+    "description": "移動甜筒，接起霜淇淋。"
+  },
+  {
+    "id": "umpire",
+    "name": "UUUMPIRE",
+    "original": "UUUMPIRE",
+    "category": "運動挑戰",
+    "likes": 57,
+    "url": "https://hakexva.github.io/uuumpire/",
+    "source": "https://www.threads.com/@tubaxenor/post/Deu_LyhkhXG",
+    "description": "棒球主審模擬遊戲。"
+  },
+  {
+    "id": "keelung",
+    "name": "基隆小行星－晴天小冒險",
+    "original": "基隆小行星－晴天小冒險",
+    "category": "動作冒險",
+    "likes": 42,
+    "url": "https://keelung-planet.aipost.tw/",
+    "source": "https://www.threads.com/@neowang168/post/DevKxWnnYzp",
+    "description": "以基隆為主題的星球探索遊戲。"
+  },
+  {
+    "id": "fx-horror",
+    "name": "爆倉之前",
+    "original": "爆倉之前｜外匯槓桿翻倍挑戰",
+    "category": "經營養成",
+    "likes": 35,
+    "url": "https://fx-horror.pages.dev/",
+    "source": "https://www.threads.com/@angry_raccoon_tw/post/DevSHIsn5fh",
+    "description": "外匯槓桿模擬遊戲，一局一分鐘。"
+  },
+  {
+    "id": "taiwan-guessr",
+    "name": "台灣 Guessr",
+    "original": "台灣 Guessr｜每日猜謎小遊戲",
+    "category": "益智解謎",
+    "likes": 35,
+    "url": "https://taiwanguessr.com/",
+    "source": "https://www.threads.com/@louise50040/post/DevOBpPnUTQ",
+    "description": "食品、品牌、台語及捷運路線的每日猜謎。"
+  },
+  {
+    "id": "latte",
+    "name": "拿鐵拉花模擬器",
+    "original": "拿鐵拉花模擬器 / ラテアート・シミュレーター",
+    "category": "料理模擬",
+    "likes": 32,
+    "url": "https://keigamesstudio.com/baka/latte/",
+    "source": "https://www.threads.com/@_1naiad7.___/post/Devj8ziE61w",
+    "description": "咖啡拉花模擬器，可切換繁體中文。"
+  }
+]
