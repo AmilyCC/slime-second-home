@@ -7,7 +7,9 @@
     "likes": 1090,
     "url": "https://chihuahua-sim.pages.dev/",
     "source": "https://www.threads.com/@_1naiad7.___/post/DeuNPSUE_WC",
-    "description": "操作吉娃娃對路人吠叫、翻垃圾桶，避開攻擊。"
+    "description": "操作吉娃娃對路人吠叫、翻垃圾桶，避開攻擊。",
+    "thumbnail": "https://chihuahua-sim.pages.dev/icons/og.jpg",
+    "icon": "https://chihuahua-sim.pages.dev/icons/apple-touch-icon.png"
   },
   {
     "id": "night-market",
@@ -17,7 +19,9 @@
     "likes": 918,
     "url": "https://yes.taiwanrpg.com/",
     "source": "https://www.threads.com/@_1naiad7.___/post/DeuNNc6E50-",
-    "description": "夜市遊戲合輯，包含撈金魚、套圈圈等。"
+    "description": "夜市遊戲合輯，包含撈金魚、套圈圈等。",
+    "thumbnail": "https://yes.taiwanrpg.com/og-image.jpg",
+    "icon": "https://yes.taiwanrpg.com/apple-touch-icon.png"
   },
   {
     "id": "rhythm-race",
@@ -27,7 +31,9 @@
     "likes": 357,
     "url": "https://rhythmrace.plave.world/",
     "source": "https://www.threads.com/@lulume1121/post/DewCe4UFF73",
-    "description": "配合 MV 與音樂遊玩；按下 MV 播放開始遊戲。"
+    "description": "配合 MV 與音樂遊玩；按下 MV 播放開始遊戲。",
+    "thumbnail": "https://rhythmrace.plave.world/assets/image/hd_ogImage.webp",
+    "icon": "https://rhythmrace.plave.world/assets/image/race_favicon.webp"
   },
   {
     "id": "horse",
@@ -37,7 +43,9 @@
     "likes": 292,
     "url": "https://tsuyatt.com/games/clip-clop/",
     "source": "https://www.threads.com/@_1naiad7.___/post/DeuON5QE09R",
-    "description": "用四個按鈕控制馬的四隻腳，走到 50 公尺外的終點。"
+    "description": "用四個按鈕控制馬的四隻腳，走到 50 公尺外的終點。",
+    "thumbnail": "https://tsuyatt.com/assets/game-ogp/clip-clop.jpg",
+    "icon": "https://tsuyatt.com/assets/apple-touch-icon-180.png"
   },
   {
     "id": "hamburg",
@@ -47,7 +55,9 @@
     "likes": 260,
     "url": "https://piko2game.com/hamburg/",
     "source": "https://www.threads.com/@_1naiad7.___/post/DeuN4Jyk5jc",
-    "description": "切洋蔥、混合材料、揉捏成形，再煎熟漢堡排。"
+    "description": "切洋蔥、混合材料、揉捏成形，再煎熟漢堡排。",
+    "thumbnail": "https://piko2game.com/assets/hamburg-cover.jpg",
+    "icon": "https://piko2game.com/assets/logo.svg"
   },
   {
     "id": "takoyaki",
@@ -57,7 +67,9 @@
     "likes": 160,
     "url": "https://piko2game.com/takoyaki/",
     "source": "https://www.threads.com/@_1naiad7.___/post/DeuOAA7k1IG",
-    "description": "倒入麵糊、加入章魚，翻面製作章魚燒。"
+    "description": "倒入麵糊、加入章魚，翻面製作章魚燒。",
+    "thumbnail": "https://piko2game.com/assets/takoyaki-cover.jpg?v=2",
+    "icon": "https://piko2game.com/assets/logo.svg"
   },
   {
     "id": "crepe",
@@ -67,7 +79,9 @@
     "likes": 90,
     "url": "https://piko2game.com/crepe/",
     "source": "https://www.threads.com/@_1naiad7.___/post/DeuOCB0kwvW",
-    "description": "倒入麵糊，傾斜平底鍋攤平，再翻面煎熟。"
+    "description": "倒入麵糊，傾斜平底鍋攤平，再翻面煎熟。",
+    "thumbnail": "https://piko2game.com/assets/crepe-cover.jpg",
+    "icon": "https://piko2game.com/assets/logo.svg"
   },
   {
     "id": "restaurant",
@@ -77,7 +91,9 @@
     "likes": 86,
     "url": "https://myrestaurant-gamma.vercel.app/",
     "source": "https://www.threads.com/@xiao_lin127/post/DevFw0rjz-d",
-    "description": "香港餐廳經營模擬遊戲。"
+    "description": "香港餐廳經營模擬遊戲。",
+    "thumbnail": "https://myrestaurant.gamedevsimulate.workers.dev/og-image.jpg",
+    "icon": "https://myrestaurant.gamedevsimulate.workers.dev/apple-touch-icon.png"
   },
   {
     "id": "pumpkin",
@@ -87,7 +103,9 @@
     "likes": 77,
     "url": "https://www.neurtale.com/thread/179",
     "source": "https://www.threads.com/@little.trial.corner/post/DevLOICk1wE",
-    "description": "萬聖節主題的文字密室解謎。"
+    "description": "萬聖節主題的文字密室解謎。",
+    "thumbnail": "https://www.neurtale.com/neurtale_icon_mobile.png",
+    "icon": "https://www.neurtale.com/neurtale_android-chrome-192x192.png"
   },
   {
     "id": "christmas",
@@ -97,7 +115,9 @@
     "likes": 77,
     "url": "https://www.neurtale.com/thread/208",
     "source": "https://www.threads.com/@little.trial.corner/post/DevLOICk1wE",
-    "description": "聖誕節主題的文字解謎。"
+    "description": "聖誕節主題的文字解謎。",
+    "thumbnail": "https://www.neurtale.com/neurtale_icon_mobile.png",
+    "icon": "https://www.neurtale.com/neurtale_android-chrome-192x192.png"
   },
   {
     "id": "easter",
@@ -107,7 +127,9 @@
     "likes": 77,
     "url": "https://www.neurtale.com/thread/363",
     "source": "https://www.threads.com/@little.trial.corner/post/DevLOICk1wE",
-    "description": "復活節主題的文字密室解謎。"
+    "description": "復活節主題的文字密室解謎。",
+    "thumbnail": "https://www.neurtale.com/neurtale_icon_mobile.png",
+    "icon": "https://www.neurtale.com/neurtale_android-chrome-192x192.png"
   },
   {
     "id": "diary",
@@ -117,7 +139,9 @@
     "likes": 77,
     "url": "https://www.neurtale.com/thread/579",
     "source": "https://www.threads.com/@little.trial.corner/post/DevLOICk1wE",
-    "description": "日記主題的文字解謎。"
+    "description": "日記主題的文字解謎。",
+    "thumbnail": "https://www.neurtale.com/neurtale_icon_mobile.png",
+    "icon": "https://www.neurtale.com/neurtale_android-chrome-192x192.png"
   },
   {
     "id": "cake",
@@ -127,7 +151,9 @@
     "likes": 68,
     "url": "https://nakayoshicake.kosukuma.com/",
     "source": "https://www.threads.com/@_1naiad7.___/post/DevMbW0ky9j",
-    "description": "裝飾蛋糕，再將蛋糕分切。"
+    "description": "裝飾蛋糕，再將蛋糕分切。",
+    "thumbnail": "https://nakayoshicake.kosukuma.com/og/ja.jpg",
+    "icon": "https://nakayoshicake.kosukuma.com/favicon.svg"
   },
   {
     "id": "legend-cave",
@@ -137,7 +163,9 @@
     "likes": 68,
     "url": "https://15cm.tw/LC/",
     "source": "https://www.threads.com/@15cm.tw/post/DeunrY5k3h4",
-    "description": "2002 年洞窟動作 RPG 的網頁重製版。"
+    "description": "2002 年洞窟動作 RPG 的網頁重製版。",
+    "thumbnail": "https://15cm.tw/LC/og-image.png?v=1",
+    "icon": "https://15cm.tw/LC/apple-touch-icon.png"
   },
   {
     "id": "softserve",
@@ -147,7 +175,9 @@
     "likes": 64,
     "url": "https://softserve.nog.cc/",
     "source": "https://www.threads.com/@kami.soku0228/post/DevWp3Lk2X3",
-    "description": "移動甜筒，接起霜淇淋。"
+    "description": "移動甜筒，接起霜淇淋。",
+    "thumbnail": "https://softserve.nog.cc/og-image.png",
+    "icon": "https://softserve.nog.cc/favicon.svg"
   },
   {
     "id": "umpire",
@@ -157,7 +187,8 @@
     "likes": 57,
     "url": "https://hakexva.github.io/uuumpire/",
     "source": "https://www.threads.com/@tubaxenor/post/Deu_LyhkhXG",
-    "description": "棒球主審模擬遊戲。"
+    "description": "棒球主審模擬遊戲。",
+    "icon": "https://hakexva.github.io/uuumpire/assets/icons/icon-192.png"
   },
   {
     "id": "apple-peel",
@@ -167,7 +198,9 @@
     "likes": 52,
     "url": "https://ringo-no-kawamuki.pages.dev/",
     "source": "https://www.threads.com/@_1naiad7.___/post/DewHFwtkxEQ",
-    "description": "慢慢轉動蘋果，挑戰削出不中斷的長果皮。"
+    "description": "慢慢轉動蘋果，挑戰削出不中斷的長果皮。",
+    "thumbnail": "https://ringo-no-kawamuki.pages.dev/ogp.png",
+    "icon": "https://ringo-no-kawamuki.pages.dev/icon.png"
   },
   {
     "id": "keelung",
@@ -177,7 +210,9 @@
     "likes": 42,
     "url": "https://keelung-planet.aipost.tw/",
     "source": "https://www.threads.com/@neowang168/post/DevKxWnnYzp",
-    "description": "以基隆為主題的星球探索遊戲。"
+    "description": "以基隆為主題的星球探索遊戲。",
+    "thumbnail": "https://keelung-planet.aipost.tw/img/og-v6.jpg",
+    "icon": "https://keelung-planet.aipost.tw/img/touch-icon-180.png"
   },
   {
     "id": "rooftop",
@@ -187,7 +222,9 @@
     "likes": 40,
     "url": "https://play.twinbuilds.com/rooftop",
     "source": "https://www.threads.com/@builds.twin/post/DevWG-inRmw",
-    "description": "在黃昏老城區的屋頂運送包裹。"
+    "description": "在黃昏老城區的屋頂運送包裹。",
+    "thumbnail": "https://play.twinbuilds.com/rooftop/og.png",
+    "icon": "https://play.twinbuilds.com/favicon.svg"
   },
   {
     "id": "neverdex",
@@ -197,7 +234,9 @@
     "likes": 39,
     "url": "https://tw.neverdex.com/",
     "source": "https://www.threads.com/@neverdex_/post/DevhNmNmpXt",
-    "description": "從水、火、土、風開始合成，收集新的卡牌。"
+    "description": "從水、火、土、風開始合成，收集新的卡牌。",
+    "thumbnail": "https://tw.neverdex.com/og/default.png",
+    "icon": "https://tw.neverdex.com/apple-touch-icon.png"
   },
   {
     "id": "fx-horror",
@@ -217,7 +256,9 @@
     "likes": 35,
     "url": "https://taiwanguessr.com/",
     "source": "https://www.threads.com/@louise50040/post/DevOBpPnUTQ",
-    "description": "食品、品牌、台語及捷運路線的每日猜謎。"
+    "description": "食品、品牌、台語及捷運路線的每日猜謎。",
+    "thumbnail": "https://taiwanguessr.com/og/hub.png",
+    "icon": "https://taiwanguessr.com/apple-icon.png?apple-icon.0f99ssdzz4kb-.png"
   },
   {
     "id": "taiwan-life",
@@ -227,7 +268,9 @@
     "likes": 33,
     "url": "https://taiwanese-simulator.tw/",
     "source": "https://www.threads.com/@tatsutatsulinlin/post/DewUv8NH5wf",
-    "description": "選擇出生年份，體驗隨機展開的台灣人生。"
+    "description": "選擇出生年份，體驗隨機展開的台灣人生。",
+    "thumbnail": "https://taiwanese-simulator.tw/icons/og.png",
+    "icon": "https://taiwanese-simulator.tw/icons/apple-touch-icon.png"
   },
   {
     "id": "latte",
@@ -237,7 +280,8 @@
     "likes": 32,
     "url": "https://keigamesstudio.com/baka/latte/",
     "source": "https://www.threads.com/@_1naiad7.___/post/Devj8ziE61w",
-    "description": "咖啡拉花模擬器，可切換繁體中文。"
+    "description": "咖啡拉花模擬器，可切換繁體中文。",
+    "thumbnail": "https://keigamesstudio.com/baka/latte/ogp.jpg?v=5"
   },
   {
     "id": "omurice",
@@ -247,7 +291,9 @@
     "likes": 31,
     "url": "https://yorimichi-games.com/omurice",
     "source": "https://www.threads.com/@_1naiad7.___/post/DeuOF1pkyfb",
-    "description": "攪拌、折疊蛋液，將歐姆蛋放上炒飯後切開。"
+    "description": "攪拌、折疊蛋液，將歐姆蛋放上炒飯後切開。",
+    "thumbnail": "https://yorimichi-games.com/site/ogp/omurice.jpg",
+    "icon": "https://yorimichi-games.com/site/apple-touch-icon.png"
   },
   {
     "id": "doodle-coaster",
@@ -257,7 +303,8 @@
     "likes": 31,
     "url": "https://rakugaki-coaster.pages.dev/",
     "source": "https://www.threads.com/@axie0217/post/DevtBrXkdgL",
-    "description": "畫出軌道，讓雲霄飛車沿著路線行駛。"
+    "description": "畫出軌道，讓雲霄飛車沿著路線行駛。",
+    "thumbnail": "https://rakugaki-coaster.pages.dev/og.png"
   },
   {
     "id": "fab24hr",
@@ -267,7 +314,9 @@
     "likes": 25,
     "url": "https://fab24hr.com/",
     "source": "https://www.threads.com/@xiao_lin127/post/DevFevxD37B",
-    "description": "走進半導體晶圓廠，體驗工程師與不同職位的工作。"
+    "description": "走進半導體晶圓廠，體驗工程師與不同職位的工作。",
+    "thumbnail": "https://fab24hr.com/og.png?v=f1173c",
+    "icon": "https://fab24hr.com/apple-touch-icon.png"
   },
   {
     "id": "handcraft-island",
@@ -277,7 +326,9 @@
     "likes": 24,
     "url": "https://hijessie.space/",
     "source": "https://www.threads.com/@panyanling_0726/post/DevYzkVkkAn",
-    "description": "探索小島，體驗刺繡、寫字與房間布置。"
+    "description": "探索小島，體驗刺繡、寫字與房間布置。",
+    "thumbnail": "https://hijessie.space/assets/og-cover.png",
+    "icon": "https://hijessie.space/assets/icon-180.png"
   },
   {
     "id": "pancake-canvas",
@@ -287,7 +338,9 @@
     "likes": 24,
     "url": "https://pancakecanvas.kosukuma.com/",
     "source": "https://www.threads.com/@panyanling_0726/post/DevYzkVkkAn",
-    "description": "用麵糊畫圖，控制火候並翻面完成鬆餅。"
+    "description": "用麵糊畫圖，控制火候並翻面完成鬆餅。",
+    "thumbnail": "https://pancakecanvas.kosukuma.com/og-pancake.png",
+    "icon": "https://pancakecanvas.kosukuma.com/favicon.svg"
   },
   {
     "id": "omurice-lettering",
@@ -297,7 +350,9 @@
     "likes": 24,
     "url": "https://www.zounoashi.com/#/game/omurice?card=square2",
     "source": "https://www.threads.com/@panyanling_0726/post/DevYzkVkkAn",
-    "description": "在蛋包飯上寫字、畫圖的模擬小遊戲。"
+    "description": "在蛋包飯上寫字、畫圖的模擬小遊戲。",
+    "thumbnail": "https://www.zounoashi.com/img/ogp.png",
+    "icon": "https://www.zounoashi.com/img/icon.png"
   },
   {
     "id": "cake-frosting",
@@ -307,7 +362,9 @@
     "likes": 24,
     "url": "https://gamerush.jp/g/UpWuANq",
     "source": "https://www.threads.com/@panyanling_0726/post/DevYzkVkkAn",
-    "description": "滑動抹刀，把蛋糕上的鮮奶油抹平，再加上裝飾。"
+    "description": "滑動抹刀，把蛋糕上的鮮奶油抹平，再加上裝飾。",
+    "thumbnail": "https://00d93e09-4842-407e-85ff-7837b8683892.g-rush.org/assets/thumb-og.jpg?v=1790897912421",
+    "icon": "https://gamerush.jp/icon-180.png"
   },
   {
     "id": "frog-tea",
@@ -317,7 +374,8 @@
     "likes": 24,
     "url": "https://naiwanaichadian.pages.dev/",
     "source": "https://www.threads.com/@panyanling_0726/post/DevYzkVkkAn",
-    "description": "幫奶蛙製作奶茶、招呼客人，經營自己的小店。"
+    "description": "幫奶蛙製作奶茶、招呼客人，經營自己的小店。",
+    "icon": "https://naiwanaichadian.pages.dev/assets/icon.png"
   },
   {
     "id": "dancing-bird",
@@ -327,7 +385,9 @@
     "likes": 23,
     "url": "https://tsuyatt.com/games/dancing-bird/",
     "source": "https://www.threads.com/@wolf6669__/post/Deud4yAEy9y",
-    "description": "配合節拍按下節奏與前進，讓小鳥跑向終點。"
+    "description": "配合節拍按下節奏與前進，讓小鳥跑向終點。",
+    "thumbnail": "https://tsuyatt.com/assets/game-ogp/dancing-bird.jpg",
+    "icon": "https://tsuyatt.com/assets/apple-touch-icon-180.png"
   },
   {
     "id": "pagamo",
@@ -337,7 +397,8 @@
     "likes": 21,
     "url": "https://www.pagamo.org/",
     "source": "https://www.threads.com/@sunshingreenonion/post/DevURwNEnIK",
-    "description": "透過回答問題攻佔土地的學習遊戲。"
+    "description": "透過回答問題攻佔土地的學習遊戲。",
+    "icon": "https://www.pagamo.org/favicon.ico"
   },
   {
     "id": "loremory",
@@ -347,7 +408,9 @@
     "likes": 20,
     "url": "http://loremory.com/",
     "source": "https://www.threads.com/@loremory_storygame/post/DeuUXqBmowO",
-    "description": "自由輸入行動，讓故事依照你的選擇繼續發展。"
+    "description": "自由輸入行動，讓故事依照你的選擇繼續發展。",
+    "thumbnail": "https://loremory.com/assets/brand/loremory-logo-kit/exports/loremory-social-banner-1200x630.png",
+    "icon": "https://loremory.com/assets/brand/loremory-logo-kit/rounded/loremory-avatar-symbol-rounded.png"
   },
   {
     "id": "stone-skipping",
@@ -357,7 +420,9 @@
     "likes": 15,
     "url": "https://taroj1205.poyo.jp/games/mizukiri",
     "source": "https://www.threads.com/@pei_0611/post/Dew2sCYiZHG",
-    "description": "丟出石頭，在碰到水面時操作，挑戰彈跳距離。"
+    "description": "丟出石頭，在碰到水面時操作，挑戰彈跳距離。",
+    "thumbnail": "https://taroj1205.poyo.jp/games/mizukiri/og?l=ja",
+    "icon": "https://taroj1205.poyo.jp/apple-icon?2046fc0212b74c6c"
   },
   {
     "id": "ramen-tower",
@@ -367,7 +432,9 @@
     "likes": 13,
     "url": "https://game.su10.dev/jiro-mashimashi-tower/?v=2",
     "source": "https://www.threads.com/@_1naiad7.___/post/DezcDLlE_8N",
-    "description": "把配料堆到拉麵上，挑戰越堆越高。"
+    "description": "把配料堆到拉麵上，挑戰越堆越高。",
+    "thumbnail": "https://game.su10.dev/jiro-mashimashi-tower/assets/og.png?v=2",
+    "icon": "https://game.su10.dev/jiro-mashimashi-tower/assets/apple-touch-icon.png"
   },
   {
     "id": "grandpa",
@@ -377,7 +444,9 @@
     "likes": 10,
     "url": "https://whoismygrandpa.win/game",
     "source": "https://www.threads.com/@jorwy/post/Dexy48aiUbp",
-    "description": "挑戰最快通關紀錄的網頁遊戲。"
+    "description": "挑戰最快通關紀錄的網頁遊戲。",
+    "thumbnail": "https://whoismygrandpa.win/og-game.jpg",
+    "icon": "https://whoismygrandpa.win/game/apple-icon.png?apple-icon.38xklm0vrwcdd.png"
   },
   {
     "id": "fruit-box",
@@ -387,7 +456,8 @@
     "likes": 3,
     "url": "https://en.gamesaien.com/game/fruit_box/",
     "source": "https://www.threads.com/@p__s___l/post/Dew1UkWifk2",
-    "description": "框選數字加起來等於十的蘋果，消除並得分。"
+    "description": "框選數字加起來等於十的蘋果，消除並得分。",
+    "icon": "https://en.gamesaien.com/game/files/icons/icon_box_a.png"
   },
   {
     "id": "wikikiwi",
@@ -397,7 +467,9 @@
     "likes": 3,
     "url": "https://wikikiwi.app/",
     "source": "https://www.threads.com/@wikikiwi.app/post/DezEAfEmetl",
-    "description": "只靠維基百科內文連結，從起點前往目標條目。"
+    "description": "只靠維基百科內文連結，從起點前往目標條目。",
+    "thumbnail": "https://wikikiwi.app/og.png?v=20260831",
+    "icon": "https://wikikiwi.app/assets/spider-icon-180.png"
   },
   {
     "id": "room-stack",
@@ -407,7 +479,9 @@
     "likes": 3,
     "url": "https://se-n.com/madori/",
     "source": "https://www.threads.com/@datonyuan/post/De0ZHIDGWEL",
-    "description": "讓房間方塊落下並堆疊，建出自己的房子。"
+    "description": "讓房間方塊落下並堆疊，建出自己的房子。",
+    "thumbnail": "https://se-n.com/madori/og.png",
+    "icon": "https://se-n.com/madori/icon.svg"
   },
   {
     "id": "bbq-tower",
@@ -417,7 +491,9 @@
     "likes": 2,
     "url": "https://bbq.koritsulab.com/",
     "source": "https://www.threads.com/@sun.ion.tw/post/De1bUublEYb",
-    "description": "夾取食材堆成一碗蒙古烤肉，挑戰不同關卡。"
+    "description": "夾取食材堆成一碗蒙古烤肉，挑戰不同關卡。",
+    "thumbnail": "https://bbq.koritsulab.com/og.png?v=711c9530",
+    "icon": "https://bbq.koritsulab.com/favicon.svg"
   },
   {
     "id": "windcity",
@@ -427,7 +503,8 @@
     "likes": 2,
     "url": "https://stanfc.github.io/windcity-sidewalk/",
     "source": "https://www.threads.com/@ssstanleyyy._.0302/post/De1UDvNmbyt",
-    "description": "頂著新竹的風在人行道前進，左右修正並避開機車。"
+    "description": "頂著新竹的風在人行道前進，左右修正並避開機車。",
+    "thumbnail": "https://stanfc.github.io/windcity-sidewalk/cover.jpg"
   },
   {
     "id": "night-pinball",
@@ -437,7 +514,9 @@
     "likes": 2,
     "url": "https://avunor.com/zh/taipei",
     "source": "https://www.threads.com/@nighttourpinball/post/Dew5WCHnxs1",
-    "description": "以台北夜市為主題，打彈珠並收集關卡印章。"
+    "description": "以台北夜市為主題，打彈珠並收集關卡印章。",
+    "thumbnail": "https://avunor.com/play/og-main.jpg",
+    "icon": "https://avunor.com/play/icon-192.png?v=2"
   },
   {
     "id": "tiny-brawlers",
@@ -447,7 +526,9 @@
     "likes": 2,
     "url": "https://tiny-brawlers.vercel.app/",
     "source": "https://www.threads.com/@tiny_brawlers/post/De1msglkiwt",
-    "description": "支援多人一起對戰、搓招放大絕的格鬥遊戲。"
+    "description": "支援多人一起對戰、搓招放大絕的格鬥遊戲。",
+    "thumbnail": "https://tiny-brawlers.vercel.app/og-image.png",
+    "icon": "https://tiny-brawlers.vercel.app/icons/icon-192.png"
   },
   {
     "id": "current-shooter",
@@ -467,7 +548,9 @@
     "likes": 1,
     "url": "https://loquacious-lokum-33b2f8.netlify.app/?v=10",
     "source": "https://www.threads.com/@xiaoai72132/post/De1KA45ki6-",
-    "description": "餵食、噴水、摸摸與清理，照顧自己的蛇蛇。"
+    "description": "餵食、噴水、摸摸與清理，照顧自己的蛇蛇。",
+    "thumbnail": "https://loquacious-lokum-33b2f8.netlify.app/og.png",
+    "icon": "https://loquacious-lokum-33b2f8.netlify.app/apple-touch-icon.png"
   },
   {
     "id": "reborn-investment",
@@ -477,7 +560,9 @@
     "likes": 0,
     "url": "https://reborn.koritsulab.com/",
     "source": "https://www.threads.com/@sun.ion.tw/post/DezO6O3lHuw",
-    "description": "回到過去，以薪水投資歷史事件，模擬資產變化。"
+    "description": "回到過去，以薪水投資歷史事件，模擬資產變化。",
+    "thumbnail": "https://reborn.koritsulab.com/og/og-zh.png",
+    "icon": "https://reborn.koritsulab.com/apple-touch-icon.png"
   },
   {
     "id": "stock-fighter",
@@ -487,7 +572,9 @@
     "likes": 0,
     "url": "https://00160530.github.io/StockFighterAJO/",
     "source": "https://www.threads.com/@wukun009/post/De1uB1dGZUm",
-    "description": "選擇人生或自由模式，體驗台股交易模擬。"
+    "description": "選擇人生或自由模式，體驗台股交易模擬。",
+    "thumbnail": "https://00160530.github.io/StockFighterAJO/assets/share-cover.jpg",
+    "icon": "https://00160530.github.io/StockFighterAJO/assets/favicon.svg"
   },
   {
     "id": "island-life",
@@ -497,7 +584,8 @@
     "likes": 0,
     "url": "https://taiwanvote.ting07081010.workers.dev/",
     "source": "https://www.threads.com/@emmanuel_love_sharing/post/De1qYOdE-l_",
-    "description": "選擇出身與人生事件，體驗虛構的台灣政壇人生。"
+    "description": "選擇出身與人生事件，體驗虛構的台灣政壇人生。",
+    "thumbnail": "https://taiwanvote.ting07081010.workers.dev/pwa-512x512.png",
+    "icon": "https://taiwanvote.ting07081010.workers.dev/apple-touch-icon.png"
   }
 ]
-
