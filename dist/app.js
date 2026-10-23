@@ -31,7 +31,7 @@ document.querySelector('#games').addEventListener('error',event=>{
  }
 },true);
 
-fetch('games.json').then(response=>{if(!response.ok)throw new Error('load');return response.json();}).then(games=>{
+fetch('games.json?v=20261023-preview-data').then(response=>{if(!response.ok)throw new Error('load');return response.json();}).then(games=>{
  document.querySelector('#banners').innerHTML=games.slice(0,3).map((game,index)=>`<a class="game-banner banner-${index}" href="${escapeHTML(game.url)}" target="_blank" rel="noopener noreferrer">${pixelArt(['dog','market','race'][index])}<span class="banner-info"><strong>${escapeHTML(game.name)}</strong><small>♥ ${game.likes.toLocaleString()}</small></span></a>`).join('');
  const pageSize=15;
  const search=document.querySelector('#search');
