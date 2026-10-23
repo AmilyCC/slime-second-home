@@ -160,6 +160,16 @@
     "description": "棒球主審模擬遊戲。"
   },
   {
+    "id": "apple-peel",
+    "name": "削蘋果皮",
+    "original": "りんごの皮むき / Apple Peel",
+    "category": "休閒小品",
+    "likes": 52,
+    "url": "https://ringo-no-kawamuki.pages.dev/",
+    "source": "https://www.threads.com/@_1naiad7.___/post/DewHFwtkxEQ",
+    "description": "慢慢轉動蘋果，挑戰削出不中斷的長果皮。"
+  },
+  {
     "id": "keelung",
     "name": "基隆小行星－晴天小冒險",
     "original": "基隆小行星－晴天小冒險",
@@ -168,6 +178,26 @@
     "url": "https://keelung-planet.aipost.tw/",
     "source": "https://www.threads.com/@neowang168/post/DevKxWnnYzp",
     "description": "以基隆為主題的星球探索遊戲。"
+  },
+  {
+    "id": "rooftop",
+    "name": "屋頂宅配",
+    "original": "屋頂宅配 Rooftop Courier",
+    "category": "動作冒險",
+    "likes": 40,
+    "url": "https://play.twinbuilds.com/rooftop",
+    "source": "https://www.threads.com/@builds.twin/post/DevWG-inRmw",
+    "description": "在黃昏老城區的屋頂運送包裹。"
+  },
+  {
+    "id": "neverdex",
+    "name": "無盡圖鑑",
+    "original": "無盡圖鑑 Neverdex",
+    "category": "益智解謎",
+    "likes": 39,
+    "url": "https://tw.neverdex.com/",
+    "source": "https://www.threads.com/@neverdex_/post/DevhNmNmpXt",
+    "description": "從水、火、土、風開始合成，收集新的卡牌。"
   },
   {
     "id": "fx-horror",
@@ -190,6 +220,16 @@
     "description": "食品、品牌、台語及捷運路線的每日猜謎。"
   },
   {
+    "id": "taiwan-life",
+    "name": "生在台灣",
+    "original": "生在台灣",
+    "category": "經營養成",
+    "likes": 33,
+    "url": "https://taiwanese-simulator.tw/",
+    "source": "https://www.threads.com/@tatsutatsulinlin/post/DewUv8NH5wf",
+    "description": "選擇出生年份，體驗隨機展開的台灣人生。"
+  },
+  {
     "id": "latte",
     "name": "拿鐵拉花模擬器",
     "original": "拿鐵拉花模擬器 / ラテアート・シミュレーター",
@@ -198,5 +238,266 @@
     "url": "https://keigamesstudio.com/baka/latte/",
     "source": "https://www.threads.com/@_1naiad7.___/post/Devj8ziE61w",
     "description": "咖啡拉花模擬器，可切換繁體中文。"
+  },
+  {
+    "id": "omurice",
+    "name": "蛋包飯模擬器",
+    "original": "オムライスシミュレーター",
+    "category": "料理模擬",
+    "likes": 31,
+    "url": "https://yorimichi-games.com/omurice",
+    "source": "https://www.threads.com/@_1naiad7.___/post/DeuOF1pkyfb",
+    "description": "攪拌、折疊蛋液，將歐姆蛋放上炒飯後切開。"
+  },
+  {
+    "id": "doodle-coaster",
+    "name": "塗鴉雲霄飛車",
+    "original": "Doodle Coaster",
+    "category": "休閒小品",
+    "likes": 31,
+    "url": "https://rakugaki-coaster.pages.dev/",
+    "source": "https://www.threads.com/@axie0217/post/DevtBrXkdgL",
+    "description": "畫出軌道，讓雲霄飛車沿著路線行駛。"
+  },
+  {
+    "id": "fab24hr",
+    "name": "晶圓廠打工人的一天",
+    "original": "fab24hr｜半導體晶圓廠打工人的一天",
+    "category": "經營養成",
+    "likes": 25,
+    "url": "https://fab24hr.com/",
+    "source": "https://www.threads.com/@xiao_lin127/post/DevFevxD37B",
+    "description": "走進半導體晶圓廠，體驗工程師與不同職位的工作。"
+  },
+  {
+    "id": "handcraft-island",
+    "name": "手作小島",
+    "original": "hi.jessie",
+    "category": "休閒小品",
+    "likes": 24,
+    "url": "https://hijessie.space/",
+    "source": "https://www.threads.com/@panyanling_0726/post/DevYzkVkkAn",
+    "description": "探索小島，體驗刺繡、寫字與房間布置。"
+  },
+  {
+    "id": "pancake-canvas",
+    "name": "鬆餅畫畫",
+    "original": "Pancake Canvas — 3D パンケーキアート",
+    "category": "料理模擬",
+    "likes": 24,
+    "url": "https://pancakecanvas.kosukuma.com/",
+    "source": "https://www.threads.com/@panyanling_0726/post/DevYzkVkkAn",
+    "description": "用麵糊畫圖，控制火候並翻面完成鬆餅。"
+  },
+  {
+    "id": "omurice-lettering",
+    "name": "蛋包飯寫字模擬器",
+    "original": "Omu-Moji Simulator",
+    "category": "料理模擬",
+    "likes": 24,
+    "url": "https://www.zounoashi.com/#/game/omurice?card=square2",
+    "source": "https://www.threads.com/@panyanling_0726/post/DevYzkVkkAn",
+    "description": "在蛋包飯上寫字、畫圖的模擬小遊戲。"
+  },
+  {
+    "id": "cake-frosting",
+    "name": "蛋糕抹奶油",
+    "original": "蛋糕抹奶油",
+    "category": "料理模擬",
+    "likes": 24,
+    "url": "https://gamerush.jp/g/UpWuANq",
+    "source": "https://www.threads.com/@panyanling_0726/post/DevYzkVkkAn",
+    "description": "滑動抹刀，把蛋糕上的鮮奶油抹平，再加上裝飾。"
+  },
+  {
+    "id": "frog-tea",
+    "name": "奶蛙奶茶鋪",
+    "original": "奶蛙奶茶铺",
+    "category": "經營養成",
+    "likes": 24,
+    "url": "https://naiwanaichadian.pages.dev/",
+    "source": "https://www.threads.com/@panyanling_0726/post/DevYzkVkkAn",
+    "description": "幫奶蛙製作奶茶、招呼客人，經營自己的小店。"
+  },
+  {
+    "id": "dancing-bird",
+    "name": "跳舞小鳥賽跑",
+    "original": "ダンシングバードレース",
+    "category": "音樂節奏",
+    "likes": 23,
+    "url": "https://tsuyatt.com/games/dancing-bird/",
+    "source": "https://www.threads.com/@wolf6669__/post/Deud4yAEy9y",
+    "description": "配合節拍按下節奏與前進，讓小鳥跑向終點。"
+  },
+  {
+    "id": "pagamo",
+    "name": "答題佔地",
+    "original": "PaGamO",
+    "category": "益智解謎",
+    "likes": 21,
+    "url": "https://www.pagamo.org/",
+    "source": "https://www.threads.com/@sunshingreenonion/post/DevURwNEnIK",
+    "description": "透過回答問題攻佔土地的學習遊戲。"
+  },
+  {
+    "id": "loremory",
+    "name": "繪憶錄",
+    "original": "繪憶錄｜AI 互動小說",
+    "category": "益智解謎",
+    "likes": 20,
+    "url": "http://loremory.com/",
+    "source": "https://www.threads.com/@loremory_storygame/post/DeuUXqBmowO",
+    "description": "自由輸入行動，讓故事依照你的選擇繼續發展。"
+  },
+  {
+    "id": "stone-skipping",
+    "name": "銀河打水漂",
+    "original": "天の川水切り",
+    "category": "運動挑戰",
+    "likes": 15,
+    "url": "https://taroj1205.poyo.jp/games/mizukiri",
+    "source": "https://www.threads.com/@pei_0611/post/Dew2sCYiZHG",
+    "description": "丟出石頭，在碰到水面時操作，挑戰彈跳距離。"
+  },
+  {
+    "id": "ramen-tower",
+    "name": "二郎拉麵堆堆樂",
+    "original": "二郎系マシマシタワー",
+    "category": "料理模擬",
+    "likes": 13,
+    "url": "https://game.su10.dev/jiro-mashimashi-tower/?v=2",
+    "source": "https://www.threads.com/@_1naiad7.___/post/DezcDLlE_8N",
+    "description": "把配料堆到拉麵上，挑戰越堆越高。"
+  },
+  {
+    "id": "grandpa",
+    "name": "蔣出來",
+    "original": "蔣出來｜挑戰最快通關",
+    "category": "益智解謎",
+    "likes": 10,
+    "url": "https://whoismygrandpa.win/game",
+    "source": "https://www.threads.com/@jorwy/post/Dexy48aiUbp",
+    "description": "挑戰最快通關紀錄的網頁遊戲。"
+  },
+  {
+    "id": "fruit-box",
+    "name": "蘋果湊十消消樂",
+    "original": "Fruit Box",
+    "category": "益智解謎",
+    "likes": 3,
+    "url": "https://en.gamesaien.com/game/fruit_box/",
+    "source": "https://www.threads.com/@p__s___l/post/Dew1UkWifk2",
+    "description": "框選數字加起來等於十的蘋果，消除並得分。"
+  },
+  {
+    "id": "wikikiwi",
+    "name": "一起奇異",
+    "original": "wikikiwi｜中文維基百科連結遊戲",
+    "category": "益智解謎",
+    "likes": 3,
+    "url": "https://wikikiwi.app/",
+    "source": "https://www.threads.com/@wikikiwi.app/post/DezEAfEmetl",
+    "description": "只靠維基百科內文連結，從起點前往目標條目。"
+  },
+  {
+    "id": "room-stack",
+    "name": "房間堆堆樂",
+    "original": "マドリ — 部屋を落として家を建てる",
+    "category": "益智解謎",
+    "likes": 3,
+    "url": "https://se-n.com/madori/",
+    "source": "https://www.threads.com/@datonyuan/post/De0ZHIDGWEL",
+    "description": "讓房間方塊落下並堆疊，建出自己的房子。"
+  },
+  {
+    "id": "bbq-tower",
+    "name": "蒙古烤肉山",
+    "original": "蒙古烤肉山",
+    "category": "料理模擬",
+    "likes": 2,
+    "url": "https://bbq.koritsulab.com/",
+    "source": "https://www.threads.com/@sun.ion.tw/post/De1bUublEYb",
+    "description": "夾取食材堆成一碗蒙古烤肉，挑戰不同關卡。"
+  },
+  {
+    "id": "windcity",
+    "name": "風城人行道",
+    "original": "風城人行道｜新竹的風好大",
+    "category": "動作冒險",
+    "likes": 2,
+    "url": "https://stanfc.github.io/windcity-sidewalk/",
+    "source": "https://www.threads.com/@ssstanleyyy._.0302/post/De1UDvNmbyt",
+    "description": "頂著新竹的風在人行道前進，左右修正並避開機車。"
+  },
+  {
+    "id": "night-pinball",
+    "name": "台北夜市彈珠台",
+    "original": "台北夜市彈珠台 – Night Tour Pinball",
+    "category": "休閒小品",
+    "likes": 2,
+    "url": "https://avunor.com/zh/taipei",
+    "source": "https://www.threads.com/@nighttourpinball/post/Dew5WCHnxs1",
+    "description": "以台北夜市為主題，打彈珠並收集關卡印章。"
+  },
+  {
+    "id": "tiny-brawlers",
+    "name": "小俠大亂鬥",
+    "original": "小俠大亂鬥 Tiny Brawlers",
+    "category": "動作冒險",
+    "likes": 2,
+    "url": "https://tiny-brawlers.vercel.app/",
+    "source": "https://www.threads.com/@tiny_brawlers/post/De1msglkiwt",
+    "description": "支援多人一起對戰、搓招放大絕的格鬥遊戲。"
+  },
+  {
+    "id": "current-shooter",
+    "name": "洋流出擊",
+    "original": "洋流出擊",
+    "category": "動作冒險",
+    "likes": 1,
+    "url": "https://taipeisoon.pages.dev/",
+    "source": "https://www.threads.com/@nuikni/post/Dey6s7Zmn9_",
+    "description": "移動、瞄準射擊，集滿能量後發動洋流。"
+  },
+  {
+    "id": "pocket-snakes",
+    "name": "口袋蛇缸",
+    "original": "口袋蛇缸",
+    "category": "經營養成",
+    "likes": 1,
+    "url": "https://loquacious-lokum-33b2f8.netlify.app/?v=10",
+    "source": "https://www.threads.com/@xiaoai72132/post/De1KA45ki6-",
+    "description": "餵食、噴水、摸摸與清理，照顧自己的蛇蛇。"
+  },
+  {
+    "id": "reborn-investment",
+    "name": "重生投資模擬器",
+    "original": "重生 All in",
+    "category": "經營養成",
+    "likes": 0,
+    "url": "https://reborn.koritsulab.com/",
+    "source": "https://www.threads.com/@sun.ion.tw/post/DezO6O3lHuw",
+    "description": "回到過去，以薪水投資歷史事件，模擬資產變化。"
+  },
+  {
+    "id": "stock-fighter",
+    "name": "台股戰士",
+    "original": "台股戰士｜小韭的第二次開盤",
+    "category": "經營養成",
+    "likes": 0,
+    "url": "https://00160530.github.io/StockFighterAJO/",
+    "source": "https://www.threads.com/@wukun009/post/De1uB1dGZUm",
+    "description": "選擇人生或自由模式，體驗台股交易模擬。"
+  },
+  {
+    "id": "island-life",
+    "name": "2300 萬分之一：島嶼千萬人",
+    "original": "2300萬分之一：島嶼千萬人・2026九合一擴充版",
+    "category": "經營養成",
+    "likes": 0,
+    "url": "https://taiwanvote.ting07081010.workers.dev/",
+    "source": "https://www.threads.com/@emmanuel_love_sharing/post/De1qYOdE-l_",
+    "description": "選擇出身與人生事件，體驗虛構的台灣政壇人生。"
   }
 ]
+
