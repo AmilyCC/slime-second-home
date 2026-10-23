@@ -12,6 +12,25 @@ function pixelArt(type){
  return `<svg class="pixel-art" viewBox="-1 -1 16 16" shape-rendering="crispEdges" aria-hidden="true">${rects}</svg>`;
 }
 
+const thumbnailPlaceholder='<svg viewBox="0 0 32 28" aria-hidden="true"><use href="#slime"/></svg>';
+function gameThumbnail(game){
+ const image=game.thumbnail||game.icon;
+ const fallback=game.thumbnail&&game.icon?game.icon:'';
+ return `<span class="game-thumbnail${!game.thumbnail?' is-icon':''}" aria-hidden="true">${image?`<img src="${escapeHTML(image)}" data-fallback="${escapeHTML(fallback)}" alt="" width="88" height="56" loading="lazy" decoding="async" referrerpolicy="no-referrer">`:thumbnailPlaceholder}</span>`;
+}
+document.querySelector('#games').addEventListener('error',event=>{
+ const image=event.target;
+ if(!image.matches('.game-thumbnail img'))return;
+ const fallback=image.dataset.fallback;
+ if(fallback){
+  image.dataset.fallback='';
+  image.parentElement.classList.add('is-icon');
+  image.src=fallback;
+ }else{
+  image.parentElement.innerHTML=thumbnailPlaceholder;
+ }
+},true);
+
 fetch('games.json').then(response=>{if(!response.ok)throw new Error('load');return response.json();}).then(games=>{
  document.querySelector('#banners').innerHTML=games.slice(0,3).map((game,index)=>`<a class="game-banner banner-${index}" href="${escapeHTML(game.url)}" target="_blank" rel="noopener noreferrer">${pixelArt(['dog','market','race'][index])}<span class="banner-info"><strong>${escapeHTML(game.name)}</strong><small>♥ ${game.likes.toLocaleString()}</small></span></a>`).join('');
  const pageSize=15;
@@ -29,7 +48,7 @@ fetch('games.json').then(response=>{if(!response.ok)throw new Error('load');retu
  function renderPage(page){
   currentPage=Math.max(1,Math.min(pageCount,page));
   const start=(currentPage-1)*pageSize;
-  document.querySelector('#games').innerHTML=filteredGames.slice(start,start+pageSize).map(game=>`<tr><td><a class="game-title" href="${escapeHTML(game.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(game.name)}</a></td><td>${escapeHTML(game.description)}</td><td class="likes"><a href="${escapeHTML(game.source)}" target="_blank" rel="noopener noreferrer" aria-label="${escapeHTML(game.name)}，${game.likes.toLocaleString()} 讚，查看來源留言">${game.likes.toLocaleString()}</a></td></tr>`).join('')||'<tr><td colspan="3">找不到符合的遊戲。</td></tr>';
+  document.querySelector('#games').innerHTML=filteredGames.slice(start,start+pageSize).map(game=>`<tr><td><a class="game-title" href="${escapeHTML(game.url)}" target="_blank" rel="noopener noreferrer">${gameThumbnail(game)}<span>${escapeHTML(game.name)}</span></a></td><td>${escapeHTML(game.description)}</td><td class="likes"><a href="${escapeHTML(game.source)}" target="_blank" rel="noopener noreferrer" aria-label="${escapeHTML(game.name)}，${game.likes.toLocaleString()} 讚，查看來源留言">${game.likes.toLocaleString()}</a></td></tr>`).join('')||'<tr><td colspan="3">找不到符合的遊戲。</td></tr>';
   pagination.querySelectorAll('button').forEach(button=>{
    const target=button.dataset.page;
    button.disabled=(target==='previous'&&currentPage<=1)||(target==='next'&&currentPage>=pageCount);
